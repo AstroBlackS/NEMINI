@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Project01</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <string name="fb_group_link">Check us out on Facebook! \n
+    https://www.facebook.com/groups/nemini/</string>
+
+    <string name="feature_video">Featured Video \n (COMING SOON!)</string>
+    <string name="event_video_list">
+        NYEE 2015 - https://www.youtube.com/watch?v=EIglG_iQJiE \n
+        \n
+        NE-MTTS 2016 - https://www.youtube.com/watch?v=bWJRYlsmYUA \n
+        \n
+        Beantown to Brooklyn 2017 - https://www.youtube.com/watch?v=C--KW4ntq6w \n
+        \n
+        NYC Sunrise Run 2017 - https://www.youtube.com/watch?v=6jWQkQX9-Zk \n
+        \n
+        NYEE 2017 - https://www.youtube.com/watch?v=guwkf4ujtuE \n
+        \n
+
+    </string>
+
+    <string name="how_to_video_list">
+        HPFP (R56) - https://www.youtube.com/watch?v=oFwVPwY-63Q \n
+        \n
+        Front Brakes + Rotors (R56) - https://www.youtube.com/watch?v=V-sc0Awew04 \n
+        \n
+        Jack Pad Replacement - https://www.youtube.com/watch?v=jZpGXfIgAlU \n
+        \n
+        Ball Joints (R56) - https://www.youtube.com/watch?v=XAZ21RGNlMk&t=5s \n
+        \n
+
+    </string>
+</resources>
